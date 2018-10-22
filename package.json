@@ -1,0 +1,25 @@
+{
+  "name": "Node.js-and-mySQL-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwomack117/Node.js-and-mySQL-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwomack117/Node.js-and-mySQL-app/issues"
+  },
+  "homepage": "https://github.com/mwomack117/Node.js-and-mySQL-app#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
