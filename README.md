@@ -1,5 +1,7 @@
 # Node.js-and-mySQL-app
 
+*Link to video of working app* https://drive.google.com/file/d/1yH3DMAf8J4tW8TgeK4BpbnTBL8QeYudQ/view
+
 ## Overview
 #### A mock amazon-like storefront app
 The app will take in orders from customers and deplete stock from the store's inventory.
