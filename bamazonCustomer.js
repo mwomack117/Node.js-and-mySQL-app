@@ -70,6 +70,7 @@ function showTable() {
               if (error) throw err;
               console.log("SUCCESSFUL PURCHASE");
               console.log(`You've been billed: $${total}.`)
+              console.log(`Inventory left: ${newQuant}`);
               con.end()
             }
           );
